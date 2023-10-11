@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lucas, and I work as a full-stack developer since 2022!
+My name is Lucas, and I work as a full-stack developer since 2022! As a developer, what drives me is the daily challenge of each new implementation!
 
 Technologies I have professional experience with, including testing and CI/CD:
 
@@ -21,6 +21,6 @@ In addition, I have hands-on experience with the following technologies through 
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-As a developer, what drives me is the daily challenge of each new implementation!
 
+Social:
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaszanon/)
