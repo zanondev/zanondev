@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lucas, and I am a full-stack developer 
+My name is Lucas, and I work as a full-stack developer since 2022!
 
 Technologies I have professional experience with, including testing and CI/CD:
 
