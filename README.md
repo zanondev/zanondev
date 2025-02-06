@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lucas, since 2022 I’ve been working as a full-stack software developer, combining technical expertise with a people-first approach to drive innovation and sustainable growth.
+My name is Lucas, since 2022 I’ve been working as a full-stack software developer.
 
 I believe that true success in software development goes beyond technical skills. Real innovation happens when technology and people align. My experience has taught me the importance of balancing operational efficiency with strong team collaboration. Developing teams, fostering a collaborative environment, and aligning everyone to shared goals are key to achieving impactful results.
 
