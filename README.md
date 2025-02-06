@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Lucas, and I work as a full-stack developer since 2022! As a developer, what drives me is the daily challenge of each new implementation!
+My name is Lucas, since 2022 I’ve been working as a full-stack software developer, combining technical expertise with a people-first approach to drive innovation and sustainable growth.
 
-Technologies I have professional experience with, including testing and CI/CD:
+I believe that true success in software development goes beyond technical skills. Real innovation happens when technology and people align. My experience has taught me the importance of balancing operational efficiency with strong team collaboration. Developing teams, fostering a collaborative environment, and aligning everyone to shared goals are key to achieving impactful results.
+
+I’m driven by the pursuit of solutions that not only solve problems but also inspire growth—for individuals, teams, and organizations.
 
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
